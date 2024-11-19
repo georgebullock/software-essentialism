@@ -15,4 +15,3 @@ Software is always changing, but the fundamentals stay the same. This program st
 ## Explore My Work
 
 Take a look at my solutions and projects in this repo. They show how I’m applying what I’ve learned to solve practical problems.
-# software-essentialist
